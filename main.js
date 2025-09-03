@@ -19,7 +19,7 @@ const openSearchBox = () => {
   }
 };
 
-const API_KEY = `b8bdfe721dec461e8c0549a19a9ec803`;
+const API_KEY = ``;
 let newsList = [];
 
 let url = new URL(
